@@ -11,3 +11,4 @@
 11. Code quality
 12. Invest in good tooling and environment, to get highest ROI on time.
 13. To make the best decision, understand all the trade-offs
+14. Think in systems, systems reduce cognitive load.
